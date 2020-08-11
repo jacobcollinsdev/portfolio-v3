@@ -242,6 +242,11 @@ body.dark-mode .blog-entry{
 body.dark-mode .card:hover .blog-entry{
     background:var(--dark-tertiarty);
 }
+
+body.dark-mode .tab-nav button.active {
+    background-color: var(--orange);
+    color:white;
+}
   
   
   /*Switch Toggle*/

@@ -102,6 +102,10 @@ a{
     color:white;
 }
 
+.tab-link:focus{
+    outline:none;
+}
+
 .tab-nav button.active {
     background-color: var(--orange);
     color:white;
